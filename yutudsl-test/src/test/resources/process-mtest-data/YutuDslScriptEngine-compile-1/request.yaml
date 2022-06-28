@@ -1,0 +1,18 @@
+case_id_111:
+  - case_id_111.dsl.yaml
+  - true
+case_id_222:
+  - case_id_222.dsl.yaml
+  - true
+case_id_333:
+  - case_id_333.dsl.yaml
+  - true
+case_id_444:
+  - case_id_444.dsl.yaml
+  - true
+case_id_555:
+  - case_id_555.dsl.yaml
+  - true
+case_id_666:
+  - case_id_666.dsl.yaml
+  - true

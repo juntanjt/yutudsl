@@ -1,0 +1,28 @@
+case_id_111:
+  - case_id_111.dsl.yaml
+  - a: 20
+  - false
+case_id_222:
+  - case_id_222.dsl.yaml
+  - null
+  - false
+case_id_333:
+  - case_id_333.dsl.yaml
+  - null
+  - false
+case_id_444:
+  - case_id_444.dsl.yaml
+  - num: 9
+  - false
+case_id_555:
+  - case_id_555.dsl.yaml
+  - null
+  - false
+case_id_666:
+  - case_id_666.dsl.yaml
+  - null
+  - false
+case_id_777:
+  - case_id_777.dsl.yaml
+  - list: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+  - false

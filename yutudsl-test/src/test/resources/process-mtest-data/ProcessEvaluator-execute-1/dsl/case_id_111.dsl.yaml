@@ -1,0 +1,11 @@
+- if: a > 1000
+  then:
+    - println("a is greater than 1000.")
+- elif: a > 100
+  then:
+    - println("a is greater than 100.")
+- elif: a > 10
+  then:
+    - println("a is greater than 10.")
+- else:
+    - println("a is less than 10 ")

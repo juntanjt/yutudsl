@@ -1,0 +1,5 @@
+- let sum = 0
+- for: x in list
+  do:
+    - sum = sum + x
+- println("sum of list is "+ sum);

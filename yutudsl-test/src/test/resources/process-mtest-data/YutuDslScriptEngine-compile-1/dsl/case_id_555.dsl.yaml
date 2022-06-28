@@ -1,0 +1,8 @@
+- let n = 100
+- let sum = 0
+- let counter = 1
+
+- while: counter <= n
+  do:
+    - sum = sum + counter
+    - counter = counter + 1
