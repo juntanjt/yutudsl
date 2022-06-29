@@ -155,15 +155,18 @@ for循环的一般格式如下：
 ```
   
 for ... in 语句通常用于遍历一个集合，例如下面是遍历 0 到 9 的数字，并打印：  
+
+**range() 函数：**  
+如果需要遍历数字序列，可以使用内置range()函数，它会生成数列。  
+  
 ```
 - for: i in range(0, 10)
   do:
   - println(i)
 ```
   
-**range() 函数：**  
-如果需要遍历数字序列，可以使用内置range()函数，它会生成数列。  
 注意：Yutu DSL 的循环不支持 break 和 continue 语句。  
+  
 for .. in 可以用于任何集合结构，比如数组、 java.util.List 、 java.util.Map 等等：  
   
 ```
